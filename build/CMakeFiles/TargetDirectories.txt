@@ -1,0 +1,3 @@
+/home/locle/DSA/DSA_in_C/build/CMakeFiles/DSA_in_C.dir
+/home/locle/DSA/DSA_in_C/build/CMakeFiles/edit_cache.dir
+/home/locle/DSA/DSA_in_C/build/CMakeFiles/rebuild_cache.dir
