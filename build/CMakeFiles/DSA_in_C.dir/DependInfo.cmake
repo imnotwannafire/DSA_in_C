@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/locle/DSA/DSA_in_C/src/main.c" "CMakeFiles/DSA_in_C.dir/src/main.c.o" "gcc" "CMakeFiles/DSA_in_C.dir/src/main.c.o.d"
+  "/home/locle/DSA/DSA_in_C/src/menu.c" "CMakeFiles/DSA_in_C.dir/src/menu.c.o" "gcc" "CMakeFiles/DSA_in_C.dir/src/menu.c.o.d"
   "/home/locle/DSA/DSA_in_C/src/stack_imp.c" "CMakeFiles/DSA_in_C.dir/src/stack_imp.c.o" "gcc" "CMakeFiles/DSA_in_C.dir/src/stack_imp.c.o.d"
   )
 
