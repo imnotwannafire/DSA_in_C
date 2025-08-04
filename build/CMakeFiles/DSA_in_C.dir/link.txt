@@ -1,1 +1,1 @@
-/usr/bin/cc CMakeFiles/DSA_in_C.dir/src/main.c.o CMakeFiles/DSA_in_C.dir/src/menu.c.o CMakeFiles/DSA_in_C.dir/src/stack_imp.c.o -o DSA_in_C 
+/usr/bin/cc CMakeFiles/DSA_in_C.dir/src/main.c.o CMakeFiles/DSA_in_C.dir/src/menu.c.o CMakeFiles/DSA_in_C.dir/src/queue_imp.c.o CMakeFiles/DSA_in_C.dir/src/stack_imp.c.o -o DSA_in_C 

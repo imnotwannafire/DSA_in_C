@@ -177,6 +177,30 @@ src/menu.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DSA_in_C.dir/build.make CMakeFiles/DSA_in_C.dir/src/menu.c.s
 .PHONY : src/menu.c.s
 
+src/queue_imp.o: src/queue_imp.c.o
+.PHONY : src/queue_imp.o
+
+# target to build an object file
+src/queue_imp.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DSA_in_C.dir/build.make CMakeFiles/DSA_in_C.dir/src/queue_imp.c.o
+.PHONY : src/queue_imp.c.o
+
+src/queue_imp.i: src/queue_imp.c.i
+.PHONY : src/queue_imp.i
+
+# target to preprocess a source file
+src/queue_imp.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DSA_in_C.dir/build.make CMakeFiles/DSA_in_C.dir/src/queue_imp.c.i
+.PHONY : src/queue_imp.c.i
+
+src/queue_imp.s: src/queue_imp.c.s
+.PHONY : src/queue_imp.s
+
+# target to generate assembly for a file
+src/queue_imp.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DSA_in_C.dir/build.make CMakeFiles/DSA_in_C.dir/src/queue_imp.c.s
+.PHONY : src/queue_imp.c.s
+
 src/stack_imp.o: src/stack_imp.c.o
 .PHONY : src/stack_imp.o
 
@@ -216,6 +240,9 @@ help:
 	@echo "... src/menu.o"
 	@echo "... src/menu.i"
 	@echo "... src/menu.s"
+	@echo "... src/queue_imp.o"
+	@echo "... src/queue_imp.i"
+	@echo "... src/queue_imp.s"
 	@echo "... src/stack_imp.o"
 	@echo "... src/stack_imp.i"
 	@echo "... src/stack_imp.s"

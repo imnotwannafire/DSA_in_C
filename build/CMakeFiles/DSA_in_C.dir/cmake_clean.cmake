@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/DSA_in_C.dir/src/main.c.o.d"
   "CMakeFiles/DSA_in_C.dir/src/menu.c.o"
   "CMakeFiles/DSA_in_C.dir/src/menu.c.o.d"
+  "CMakeFiles/DSA_in_C.dir/src/queue_imp.c.o"
+  "CMakeFiles/DSA_in_C.dir/src/queue_imp.c.o.d"
   "CMakeFiles/DSA_in_C.dir/src/stack_imp.c.o"
   "CMakeFiles/DSA_in_C.dir/src/stack_imp.c.o.d"
   "DSA_in_C"
